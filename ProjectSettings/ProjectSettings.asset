@@ -927,11 +927,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: 98283255-4d57-466b-8237-0d9cef49973c
+  cloudProjectId: a432c7e8-c6f4-478a-aff4-a9ce08cb30b1
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Thesis Project
-  organizationId: omega53
+  projectName: VRConnect
+  organizationId: khan0743
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
